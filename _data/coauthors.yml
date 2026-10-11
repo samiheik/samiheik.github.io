@@ -49,3 +49,15 @@
 "lopez-pernas":
   - firstname: ["Sonsoles", "S."]
     url: https://orcid.org/0000-0002-9621-1392
+
+"nemilentsev":
+  - firstname: ["Mikhail", "M."]
+    url: https://scholar.google.com/citations?user=8fTiVzEAAAAJ
+
+"ahola":
+  - firstname: ["Markus", "M."]
+    url: https://scholar.google.com/citations?user=zq9-qSYAAAAJ
+
+"vaananen":
+  - firstname: ["Ilkka", "I."]
+    url: https://scholar.google.com/citations?user=nZigC2oAAAAJ
