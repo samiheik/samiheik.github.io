@@ -7,7 +7,7 @@ first_name: Sami
 middle_name: P.
 last_name: Heikkinen
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I prefer email contacts.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -356,8 +356,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Heikkinen]
+  first_name: [Sami, S., Sami P., S. P.]
 
   style: apa
   locale: en
