@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://samiheik.github.io/sitemap.xml
+Sitemap: https://samiheikkinen.com/sitemap.xml
