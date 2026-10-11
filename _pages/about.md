@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Lecturer at LAB University of Applied Sciences in Finland. I received my PhD from the University of Eastern Finland in 2025, with a dissertation on learning analytics and the temporal dynamics of self-regulated learning.
+I am a Senior Lecturer at LAB University of Applied Sciences in Finland, where I currently work in the [Growth & Commercialization](https://lab.fi/en/RDI/research-groups/growth-and-commercialization) research group led by Outi-Maaria Palo-oja. I received my PhD from the University of Eastern Finland in 2025, with a dissertation on learning analytics and the temporal dynamics of self-regulated learning. The doctoral research was carried out in the [learning analytics research group](https://sites.uef.fi/learning-analytics/) led by Mohammed Saqr.
 
 My research combines learning analytics, self-regulated learning, social network analysis and service and tourism research. I am also interested in how large language models can be used to simulate survey respondents (synthetic personas and silicon sampling). I serve as an associate editor for Frontiers in Education.
 
