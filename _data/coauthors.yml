@@ -21,3 +21,31 @@
 "van der stappen":
   - firstname: ["Esther", "E."]
     url: https://scholar.google.com/citations?user=qHNOslMAAAAJ
+
+"snijders":
+  - firstname: ["Chris", "C.", "Chris C. P."]
+    url: https://research.tue.nl/en/persons/chris-cp-snijders/
+
+"matzat":
+  - firstname: ["Uwe", "U."]
+    url: https://research.tue.nl/en/persons/uwe-matzat/
+
+"kleingeld":
+  - firstname: ["Ad", "A.", "P. A. M."]
+    url: https://research.tue.nl/en/persons/pam-ad-kleingeld/
+
+"baltzar":
+  - firstname: ["Pauliina", "P."]
+    url: https://www.tuni.fi/en/pauliina-baltzar
+
+"majumdar":
+  - firstname: ["Rwitajit", "R."]
+    url: https://www.gsis.kumamoto-u.ac.jp/en/professors/rwitajit-majumdar/
+
+"tlili":
+  - firstname: ["Ahmed", "A."]
+    url: https://fe-english.bnu.edu.cn/t003-c-1-127.htm
+
+"lopez-pernas":
+  - firstname: ["Sonsoles", "S."]
+    url: https://orcid.org/0000-0002-9621-1392
