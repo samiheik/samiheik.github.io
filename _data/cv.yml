@@ -27,7 +27,7 @@ cv:
           - Doctoral research carried out in the learning analytics research group led by Associate Professor Mohammed Saqr
 
       - institution: University of Eastern Finland # university of your MSc degree
-        location: Kuopio, finland
+        location: Kuopio, Finland
         area: Economics and Business Administration
         studyType: MSc
         start_date: 2013 # TODO
@@ -43,95 +43,67 @@ cv:
         summary: Member of the Growth & Commercialization research group led by Outi-Maaria Palo-oja.
         highlights:
           - Research on learning analytics and self-regulated learning, social network analysis, tourism and service segmentation, cruise experience research, and LLM-based synthetic personas (silicon sampling)
-          - Teaching in higher education # TODO: add courses or programmes
+          - Teaching in Project management, service development, and creative problem solving. # TODO: add courses or programmes
 
       - company: Frontiers in Education
         position: Associate Editor
-        location: Online
         start_date: 2025 # TODO
         end_date: present
 
     Projects:
+      - name: Cruise experience research, funded by Business Finland
+        summary: Research on cruise passengers' experience preferences and servicescape data. # TODO: add the project name and dates
+        start_date: 2025
+        end_date: present
       - name: Erasmus+ BAIL project, Blended Intensive Programme (BIP) intensive week
         summary: International intensive week organised within the Erasmus+ BAIL project. # TODO: add a one-line description and dates
         start_date: 2023
         end_date: present
 
-      - name: Cruise experience research, funded by Business Finland
-        summary: Research on cruise passengers' experience preferences and servicescape data. # TODO: add the project name and dates
-        start_date: 2025
-        end_date: present
+
 
     Publications:
-      - title: Using Learning Analytics to Capture Self-Regulation and the Complex Temporal Dynamics of its Correlates
-        authors:
-          - Sami Heikkinen
-        publisher: University of Eastern Finland (doctoral dissertation)
-        releaseDate: 2025-06-18
-        url: https://erepo.uef.fi/handle/123456789/34783
-
-      - title: A longitudinal study of interplay between student engagement and self-regulation
-        authors:
-          - Sami Heikkinen
-          - Mohammed Saqr
-          - Jonna Malmberg
-          - Matti Tedre
-        publisher: International Journal of Educational Technology in Higher Education
-        releaseDate: 2025-04-08
-        url: https://doi.org/10.1186/s41239-025-00523-3
-
-      - title: "Sequence analysis and process mining perspectives to goal setting: What distinguishes business students with high and low self-efficacy beliefs?"
-        authors:
-          - Sami Heikkinen
-          - Tudor Cristea
-          - Mohammed Saqr
-          - Jonna Malmberg
-          - Ad Kleingeld
-          - Chris Snijders
-          - Uwe Matzat
-          - Matti Tedre
-        publisher: Smart Learning Environments
-        releaseDate: 2024-09-13
-        url: https://doi.org/10.1186/s40561-024-00327-4
-
-      - title: Supporting self-regulated learning with learning analytics interventions, a systematic literature review
-        authors:
-          - Sami Heikkinen
-          - Mohammed Saqr
-          - Jonna Malmberg
-          - Matti Tedre
-        publisher: Education and Information Technologies
-        releaseDate: 2023-03-01
-        url: https://doi.org/10.1007/s10639-022-11281-4
-
-      - title: Validating the contemporary business soft skills instrument
-        authors:
-          - Sami Heikkinen
-          - Heidi Myyryläinen
-        publisher: Business and Professional Communication Quarterly
-        releaseDate: 2025-02-01
-        url: https://doi.org/10.1177/23294906251317717
-
       - title: Analysis of customer journey video data using eye-tracking and multimodal AI
-        authors:
-          - Sami Heikkinen
-          - Jaani Väisänen
-          - Hannu Kaikonen
-          - Sami Makkula
-          - Petteri Markkanen
         publisher: InnoComp 2025, Communications in Computer and Information Science (Springer)
         releaseDate: 2026-01-01
         url: https://doi.org/10.1007/978-3-032-12478-4_1
+        summary: With J. Väisänen, H. Kaikonen, S. Makkula and P. Markkanen.
+
+      - title: Using Learning Analytics to Capture Self-Regulation and the Complex Temporal Dynamics of its Correlates
+        publisher: University of Eastern Finland (doctoral dissertation)
+        releaseDate: 2025-06-18
+        url: https://erepo.uef.fi/handle/123456789/34783
+        summary: Doctoral dissertation.
+
+      - title: A longitudinal study of interplay between student engagement and self-regulation
+        publisher: International Journal of Educational Technology in Higher Education
+        releaseDate: 2025-04-08
+        url: https://doi.org/10.1186/s41239-025-00523-3
+        summary: With M. Saqr, J. Malmberg and M. Tedre.
+
+      - title: Validating the contemporary business soft skills instrument
+        publisher: Business and Professional Communication Quarterly
+        releaseDate: 2025-02-01
+        url: https://doi.org/10.1177/23294906251317717
+        summary: With H. Myyryläinen.
 
       - title: The interplay of engagement and learning regulation in online learning
-        authors:
-          - Sami Heikkinen
-          - Mohammed Saqr
-          - Jonna Malmberg
-          - Matti Tedre
         publisher: Proceedings of TEEM 2024, Lecture Notes in Educational Technology (Springer)
         releaseDate: 2024-10-01
         url: https://doi.org/10.1007/978-981-96-5658-5_43
+        summary: With M. Saqr, J. Malmberg and M. Tedre.
+
+      - title: "Sequence analysis and process mining perspectives to goal setting: What distinguishes business students with high and low self-efficacy beliefs?"
+        publisher: Smart Learning Environments
+        releaseDate: 2024-09-13
+        url: https://doi.org/10.1186/s40561-024-00327-4
+        summary: With T. Cristea, M. Saqr, J. Malmberg, A. Kleingeld, C. Snijders, U. Matzat and M. Tedre.
+
+      - title: Supporting self-regulated learning with learning analytics interventions, a systematic literature review
+        publisher: Education and Information Technologies
+        releaseDate: 2023-03-01
+        url: https://doi.org/10.1007/s10639-022-11281-4
+        summary: With M. Saqr, J. Malmberg and M. Tedre.
 
     Skills:
       - name: Research methods
