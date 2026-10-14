@@ -241,7 +241,7 @@ exclude:
   - migrations/
   - vendor
   - _posts/
-  - _news/
+  - _news/announcement_*.md
   - _projects/
   - _books/
   - _teachings/
